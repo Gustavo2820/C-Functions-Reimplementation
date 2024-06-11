@@ -1,7 +1,7 @@
 # C Functions Reimplementation
 
 This project aims to create customized versions of some standard C language functions. The objective is to understand how these functions work and learn more about programming in C.
-## Work in Progress
+## Reimplemented functions
 For now, only a few string-related functions have been included and tested.
 - `my_strlen`: Calculates the length of a string.
 - `my_strcpy`: Copies a string to another.
@@ -15,4 +15,4 @@ The project is organized as follows:
 - `src/`: Contains the implementations of the functions.
   - `my_string/`: Implementations related to string operations.
 - `headers/`: Contains the header files for the implemented functions.
-- `tests/`: Contains test and examples files for the implemented functions.
+- `examples/`: Contains test and examples files for the implemented functions.
